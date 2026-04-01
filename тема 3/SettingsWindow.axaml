@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="AvaloniaApp.SettingsWindow"
+        Width="300" Height="200"
+        Title="Настройки">
+
+  <StackPanel Margin="10" Spacing="10">
+
+    <TextBlock Text="Скорость"/>
+    <Slider Name="SpeedSlider" Minimum="1" Maximum="20"/>
+
+    <TextBlock Text="Цвет"/>
+    <ComboBox Name="ColorBox">
+      <ComboBoxItem Content="Red"/>
+      <ComboBoxItem Content="Blue"/>
+      <ComboBoxItem Content="Green"/>
+      <ComboBoxItem Content="Black"/>
+    </ComboBox>
+
+    <Button Content="OK" Click="Save"/>
+
+  </StackPanel>
+</Window>
