@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animals>
+  <animal name="Орел" category="птицы">
+    <image>orel.jpg</image>
+    <habitat>горы и степи</habitat>
+    <description>Крупная хищная птица с мощным клювом и острым зрением</description>
+  </animal>
+  <animal name="Сова" category="птицы">
+    <image>sova.jpg</image>
+    <habitat>леса</habitat>
+    <description>Ночная птица с большими глазами и бесшумным полетом</description>
+  </animal>
+  <animal name="Пингвин" category="птицы">
+    <image>pingvin.jpg</image>
+    <habitat>Антарктида</habitat>
+    <description>Нелетающая птица, отлично плавающая</description>
+  </animal>
+  <animal name="Колибри" category="птицы">
+    <image>kolibri.jpg</image>
+    <habitat>Америка</habitat>
+    <description>Самая маленькая птица в мире</description>
+  </animal>
+  <animal name="Синица" category="птицы">
+    <image>sinitsa.jpg</image>
+    <habitat>Леса и парки</habitat>
+    <description>Желтая грудка</description>
+  </animal>
+  <animal name="Ласточка" category="птицы">
+    <image>lastochka.jpg</image>
+    <habitat>около воды</habitat>
+    <description>Маленькая проворная птица с длинными крыльями</description>
+  </animal>
+  <animal name="Воробей" category="птицы">
+    <image>vorobey.jpg</image>
+    <habitat>в городах и полях</habitat>
+    <description>Небольшая серая птица, широко распространённая</description>
+  </animal>
+  <animal name="Голубь" category="птицы">
+    <image>golub.jpg</image>
+    <habitat>в городах</habitat>
+    <description>Птица, часто встречающаяся в населённых пунктах</description>
+  </animal>
+  <animal name="Журавль" category="птицы">
+    <image>zhuravl.jpg</image>
+    <habitat>болота и луга</habitat>
+    <description>Высокая птица с длинными ногами и шеей</description>
+  </animal>
+  <animal name="Фламинго" category="птицы">
+    <image>flamingo.jpg</image>
+    <habitat>солёные озёра</habitat>
+    <description>Розовая птица, стоящая на одной ноге</description>
+  </animal>
+  <animal name="Утка" category="птицы">
+    <image>utka.jpg</image>
+    <habitat>вокруг воды</habitat>
+    <description>Водоплавающая птица небольшого размера</description>
+  </animal>
+  <animal name="Лев" category="млекопитающие">
+    <image>lev.jpg</image>
+    <habitat>саванна</habitat>
+    <description>Царь зверей, живет прайдами</description>
+  </animal>
+  <animal name="Слон" category="млекопитающие">
+    <image>slon.jpg</image>
+    <habitat>джунгли и саванна</habitat>
+    <description>Крупнейшее наземное животное</description>
+  </animal>
+  <animal name="Волк" category="млекопитающие">
+    <image>volk.jpg</image>
+    <habitat>леса и степи</habitat>
+    <description>Хищник, живущий стаей</description>
+  </animal>
+  <animal name="Тигр" category="млекопитающие">
+    <image>tigr.jpg</image>
+    <habitat>джунгли</habitat>
+    <description>Крупный полосатый хищник</description>
+  </animal>
+  <animal name="Медведь" category="млекопитающие">
+    <image>medved.jpg</image>
+    <habitat>леса</habitat>
+    <description>Крупное всеядное животное</description>
+  </animal>
+  <animal name="Жираф" category="млекопитающие">
+    <image>zhiraf.jpg</image>
+    <habitat>сафари</habitat>
+    <description>Высокое животное с длинной шеей</description>
+  </animal>
+  <animal name="Кенгуру" category="млекопитающие">
+    <image>kenguru.jpg</image>
+    <habitat>Австралия</habitat>
+    <description>Млекопитающее с сумкой для детёныша</description>
+  </animal>
+  <animal name="Заяц" category="млекопитающие">
+    <image>zayac.jpg</image>
+    <habitat>поля и луга</habitat>
+    <description>Быстрое животное с длинными ушами</description>
+  </animal>
+  <animal name="Олень" category="млекопитающие">
+    <image>olen.jpg</image>
+    <habitat>леса и поля</habitat>
+    <description>Рога у самцов, стройное тело</description>
+  </animal>
+  <animal name="Крокодил" category="рептилии">
+    <image>krokodil.jpg</image>
+    <habitat>реки и болота</habitat>
+    <description>Крупное пресмыкающееся с мощными челюстями</description>
+  </animal>
+  <animal name="Ящерица" category="рептилии">
+    <image>yasheritsa.jpg</image>
+    <habitat>пустыни и леса</habitat>
+    <description>Может отбрасывать хвост для защиты</description>
+  </animal>
+  <animal name="Змея" category="рептилии">
+    <image>zmeya.jpg</image>
+    <habitat>разные места</habitat>
+    <description>Пресмыкающееся без ног</description>
+  </animal>
+  <animal name="Игуана" category="рептилии">
+    <image>iguana.jpg</image>
+    <habitat>тропики</habitat>
+    <description>Зелёная большая ящерица</description>
+  </animal>
+  <animal name="Черепаха" category="рептилии">
+    <image>cherepakha.jpg</image>
+    <habitat>пустыни и воды</habitat>
+    <description>Пресмыкающееся с панцирем</description>
+  </animal>
+  <animal name="Гадюка" category="рептилии">
+    <image>gadyuka.jpg</image>
+    <habitat>леса и горы</habitat>
+    <description>Ядовитая змея</description>
+  </animal>
+  <animal name="Хамелеон" category="рептилии">
+    <image>hameleon.jpg</image>
+    <habitat>тропики</habitat>
+    <description>Может менять окраску</description>
+  </animal>
+  <animal name="Анаконда" category="рептилии">
+    <image>anaconda.jpg</image>
+    <habitat>реки тропиков</habitat>
+    <description>Огромная водная змея</description>
+  </animal>
+  <animal name="Агама" category="рептилии">
+    <image>agama.jpg</image>
+    <habitat>скалы и пустыни</habitat>
+    <description>Небольшая ящерица с яркой окраской</description>
+  </animal>
+  <animal name="Бабочка" category="насекомые">
+    <image>babochka.jpg</image>
+    <habitat>луга и сады</habitat>
+    <description>Насекомое с яркими крыльями</description>
+  </animal>
+  <animal name="Муравей" category="насекомые">
+    <image>muravey.jpg</image>
+    <habitat>везде</habitat>
+    <description>Общественное насекомое, живет колониями</description>
+  </animal>
+  <animal name="Стрекоза" category="насекомые">
+    <image>strekoza.jpg</image>
+    <habitat>около воды</habitat>
+    <description>Быстро летающее насекомое</description>
+  </animal>
+  <animal name="Божья коровка" category="насекомые">
+    <image>bozhyakorovka.jpg</image>
+    <habitat>сады</habitat>
+    <description>Маленькое жучок с точками</description>
+  </animal>
+  <animal name="Пчела" category="насекомые">
+    <image>pchela.jpg</image>
+    <habitat>сады и поля</habitat>
+    <description>Жужжалка, производящая мёд</description>
+  </animal>
+  <animal name="Комар" category="насекомые">
+    <image>komar.jpg</image>
+    <habitat>около воды</habitat>
+    <description>Кусающий мелкий кровосос</description>
+  </animal>
+  <animal name="Моль" category="насекомые">
+    <image>mol.jpg</image>
+    <habitat>в домах</habitat>
+    <description>Ночное насекомое, портит ткани</description>
+  </animal>
+  <animal name="Жук" category="насекомые">
+    <image>zhuk.jpg</image>
+    <habitat>лес</habitat>
+    <description>Разнообразная группа с твёрдым панцирем</description>
+  </animal>
+  <animal name="Муха" category="насекомые">
+    <image>mukha.jpg</image>
+    <habitat>везде</habitat>
+    <description>Часто летающее насекомое</description>
+  </animal>
+</animals>
